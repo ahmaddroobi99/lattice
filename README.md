@@ -4,6 +4,10 @@ A visual field manual of machine intelligence — from observation and arrays to
 
 Not a coding gym. A way of seeing. Arrays as mailboxes, vectors as walks, attention as a dinner table, GPUs as a kitchen of a thousand cooks.
 
+**Live:** [lattice-field-manual.netlify.app](https://lattice-field-manual.netlify.app)
+
+![Lattice field manual](docs/demo.png)
+
 ```
 REAL WORLD → OBSERVATION → MEASUREMENT → DATA
      → ARRAYS → VECTORS → MATRICES
@@ -16,7 +20,7 @@ REAL WORLD → OBSERVATION → MEASUREMENT → DATA
 **Manual**
 
 | # | Chapter |
-|---|---------|
+|---|---|
 | 00 | What is information? |
 | 01 | How is information stored? |
 | 02 | Math as geometry |
@@ -41,12 +45,15 @@ npm install
 npm run dev
 ```
 
-Then open the app in the browser (the dev server listens on port 8080).
-
 ```bash
 npm run build
 npm run typecheck
 ```
+
+## Related
+
+- [meridian](https://github.com/ahmaddroobi99/meridian) — what to read next
+- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — a scientific model treated as a system, not a metaphor
 
 ## License
 
