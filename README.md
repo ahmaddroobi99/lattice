@@ -58,3 +58,8 @@ npm run typecheck
 ## License
 
 Original writing and diagrams in this repository are yours to read and share with attribution. Landmark paper titles remain the names of their authors’ work.
+
+---
+
+Account grouping: research first, undergraduate last — see the [profile README](https://github.com/ahmaddroobi99/ahmaddroobi99). GitHub cannot custom-sort the Repositories tab.
+
