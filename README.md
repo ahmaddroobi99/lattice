@@ -46,8 +46,11 @@ npm run dev
 ```
 
 ```bash
-npm run build
 npm run typecheck
+npm run lint
+npm test         # 16 app-builder template tests in scripts/ fail on a fresh clone
+npx vite build   # bundle only
+npm run build    # vite build + db:migrate (applies migrations when DATABASE_URL is set)
 ```
 
 ## Related
