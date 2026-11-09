@@ -20,3 +20,4 @@ artifacts
 .idea
 coverage
 *.tsbuildinfo
+.node_modules.lock
